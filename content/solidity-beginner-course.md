@@ -16,3 +16,5 @@ We created an interactive course on Ethereums Remix IDE to teach you the fundame
 1. Go to [https://remix.ethereum.org/](https://remix.ethereum.org/)
 2. Select Learneth from the home screen or the plugins tab.
 3. In the Learneth plugin, select the Solidity Beginner Course.
+
+![](https://github.com/dacadeorg/solidity-development-101/blob/main/imgs/solidity_beginner_course_explainer.png)
