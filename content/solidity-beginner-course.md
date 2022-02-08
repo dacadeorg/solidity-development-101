@@ -1,6 +1,6 @@
 We created an interactive course on Ethereums Remix IDE to teach you the fundamental Solidity concepts. The contracts we explain are based on the popular [https://solidity-by-example.org/](https://solidity-by-example.org/) contracts.
 
-The course will have the following sections:
+### Table of Content
 1. Introduction
 2. Basic Syntax
 3. Data Types
@@ -12,7 +12,7 @@ The course will have the following sections:
 9. Data Locations
 10. Transactions
 
-Instructions:
+### Instructions
 1. Go to [https://remix.ethereum.org/](https://remix.ethereum.org/)
 2. Select Learneth from the home screen or the plugins tab.
 3. In the Learneth plugin, select the Solidity Beginner Course.
