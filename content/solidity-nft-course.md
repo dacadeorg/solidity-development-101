@@ -12,3 +12,5 @@ This learning module consists of a course that we have created for the Ethereum 
 1. Go to [https://remix.ethereum.org/](https://remix.ethereum.org/)
 2. Select Learneth from the home screen or the plugins tab.
 3. In the Learneth plugin, select the Solidity NFT Course.
+
+![](https://github.com/dacadeorg/solidity-development-101/blob/main/imgs/solidity_nft_course_explainer.png)
