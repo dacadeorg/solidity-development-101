@@ -14,4 +14,4 @@ We created an interactive course on Ethereums Remix IDE to teach you the fundame
 
 ### Instructions
 This [link](https://remix.ethereum.org/?#activate=solidityUnitTesting,solidity,LearnEth&call=LearnEth//startTutorial//ethereum/remix-workshops//master//soliditybeginner
-) will direct you to our Learneth course in the Remix IDE. Follow the instructions in the course.
+) will direct you to our Learneth course in the Remix IDE. Click on the link and follow the instructions in the course.
