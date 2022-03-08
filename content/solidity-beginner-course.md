@@ -13,5 +13,5 @@ We created an interactive course on Ethereums Remix IDE to teach you the fundame
 10. Transactions
 
 ### Instructions
-Click on this [link](https://remix.ethereum.org/?#activate=solidityUnitTesting,solidity,LearnEth&call=LearnEth//startTutorial//ethereum/remix-workshops//master//soliditybeginner
-) and follow the instructions in the tutorial.
+This [link](https://remix.ethereum.org/?#activate=solidityUnitTesting,solidity,LearnEth&call=LearnEth//startTutorial//ethereum/remix-workshops//master//soliditybeginner
+) will direct you to our Learneth course in the Remix IDE. Follow the instructions in the course.
