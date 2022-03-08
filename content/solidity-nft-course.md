@@ -9,8 +9,5 @@ This learning module consists of a course that we have created for the Ethereum 
 6. Deploy to Testnet
 
 ### Instructions
-1. Go to [https://remix.ethereum.org/](https://remix.ethereum.org/)
-2. Select Learneth from the home screen or the plugins tab.
-3. In the Learneth plugin, select the Solidity NFT Course.
-
-![](https://github.com/dacadeorg/solidity-development-101/blob/main/imgs/solidity_nft_course_explainer.png)
+This [link](https://remix.ethereum.org/?#activate=solidityUnitTesting,solidity,LearnEth&call=LearnEth//startTutorial//ethereum/remix-workshops//master//nftTokenCourse
+) will direct you to our Learneth course in the Remix IDE. Follow the link; inside Remix Learneth, click on the first lesson: "Introduction" and get started.
