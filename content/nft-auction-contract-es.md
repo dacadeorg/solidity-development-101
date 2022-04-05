@@ -1,4 +1,4 @@
-Este módulo de aprendizaje consiste en un tutorial que hemos creado para el IDE de Ethereum Remix. El tutorial le guiarßa a través de la creación de un contrato creado por el popular proyecto [https://solidity-by-example.org/](https://solidity-by-example.org/)
+Este módulo de aprendizaje consiste en un tutorial que hemos creado para el IDE de Ethereum Remix. El tutorial le guiará a través de la creación de un contrato creado por el popular proyecto [https://solidity-by-example.org/](https://solidity-by-example.org/)
 
 
 ### Tabla de Contenidos
