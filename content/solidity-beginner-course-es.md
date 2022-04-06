@@ -14,5 +14,5 @@ Hemos creado un curso interactivo en el IDE Remix de Ethereum para enseñarle lo
 
 
 ### Instructions
-Este [link](https://remix.ethereum.org/?#activate=solidityUnitTesting,solidity,LearnEth&call=LearnEth//startTutorial//ethereum/remix-workshops//master//soliditybeginner
+Este [link](https://remix.ethereum.org/?#activate=solidityUnitTesting,solidity,LearnEth&call=LearnEth//startTutorial//dacadeorg/remix-tutoriales-espanol//master//soliditybeginner
 ) le dirigirá a nuestro curso de Learneat en el IDE de Remix. siga el link; en el Learneth de Remix, clique en el la primera lección: "Introducción" y comience. 
