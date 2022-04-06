@@ -10,5 +10,5 @@ Este módulo de aprendizaje consiste en un curso que hemos creado para el IDE Re
 
 
 ### Instructiones
-Este [link](https://remix.ethereum.org/?#activate=solidityUnitTesting,solidity,LearnEth&call=LearnEth//startTutorial//ethereum/remix-workshops//master//nftTokenCourse
+Este [link](https://remix.ethereum.org/?#activate=solidityUnitTesting,solidity,LearnEth&call=LearnEth//startTutorial//dacadeorg/remix-tutoriales-espanol//master//nftTokenCourse
 ) le redirigirá a nuestro curso Learneth en el IDE de Remix. Siga el link; en el Learneth de Remix, clique en la primera lección: "Introducción" y comience. 
